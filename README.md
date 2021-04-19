@@ -6,11 +6,17 @@
   <a href="https://github.com/sponsors/pierstoval">
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
   </a>
-  
-  <a href="https://github.com/pierstoval"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=pierstoval&show_icons=true&theme=tokyonight" height="142" /></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierstoval&layout=compact&langs_count=10&theme=tokyonight" alt="pierstoval" />
-
 </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/pierstoval"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=pierstoval&show_icons=true&theme=tokyonight" height="142" /></a>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierstoval&layout=compact&langs_count=10&theme=tokyonight" alt="pierstoval" />
+      </td>
+    </tr>
+  </table>
 
 <hr style="display:block;">
 
