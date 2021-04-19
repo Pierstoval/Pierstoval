@@ -14,7 +14,7 @@
       <a href="https://github.com/pierstoval"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=pierstoval&show_icons=true&theme=tokyonight" height="142" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierstoval&layout=compact&langs_count=10&theme=tokyonight" alt="pierstoval" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierstoval&layout=compact&langs_count=12&theme=tokyonight" alt="pierstoval" />
     </td>
   </tr>
 </table>
