@@ -37,14 +37,17 @@ I do many things, check out my activities:
 
 * 🐘 **PHP**
   * That's my main skill, been doing PHP since 2008, and tried tons of frameworks.
-  * I'm certified Symfony 3 and 4, been doing almost only Symfony-based projects since 2013
+  * I have 2 Symfony certifications, and been doing almost only Symfony-based projects since 2013
   * I made some open-source projects:
     * 🍎[Compotes](https://github.com/Orbitale/Compotes), a small app to visualize analytics about your bank accounts operations.
     * 🪄 [ImageMagickPHP](https://github.com/Orbitale/ImageMagickPHP), an ImageMagick command-line wrapper for PHP.
     * 📄 [CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
     * 🎲 [CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom role-playing games.
 * 🦀 **Rust**
-  * I recently discovered Rust, checkout how I'm using it with [Rymfony](https://github.com/Orbitale/Rymfony), which is an open-source alternative to the closed-source Symfony CLI binary!
+  * I recently discovered Rust, a low-level language that's at the core of Firefox, and which is coming to Linux and other projects
+  * I currently have two projects using it:
+    * [Rymfony](https://github.com/Orbitale/Rymfony), which is an open-source alternative to the closed-source Symfony CLI binary!
+    * 🍎[Compotes v2](https://github.com/Orbitale/Compotes/tree/rewrite), a complete rewrite of the first PHP/Symfony version, using Tauri (Rust tool to create desktop applications) and the frontend framework Svelte (using Typescript)
 * 🟨 **Javascript**
   * I've experienced jQuery and MooTools in the past, but now I'm willing to work with more professionnal structures.
   * 🍦 I really like vanilla JS, but be sure that I'll also adapt to most frameworks.
@@ -53,5 +56,4 @@ I do many things, check out my activities:
   * No specific framework yet, but I'm keen to do something else than vanilla Typescript 😉.
   * My very first "sandbox project" in Typescript is a small Handpan pattern generator you can see there: https://pierstoval.github.io/handpan/ (check the [source code](https://pierstoval.github.io/handpan/index.html)). The Handpan is a musical instrument classified in the _steelpans_, and it has a very zen and lovely sound!
 * 🦕 **Deno**
-  * I've experienced it, and I'm keen to build cool apps with it!
-  * If I ever find the time to do it, I'd like for instance to port Svelte to Deno, I even tried a [proof of concept](https://www.orbitale.io/2020/06/04/an-attempt-to-use-sveltejs-with-deno.html) of using the compiler directly in Deno, and it works, partly, but it works!
+  * Experienced it, tested it to create bundled versions of Typescript projects, but can also be used to compile executables!
