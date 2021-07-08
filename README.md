@@ -53,7 +53,7 @@ I do many things, check out my activities:
   * 🍦 I really like vanilla JS, but be sure that I'll also adapt to most frameworks.
   * I know and love **Svelte** and a little **Vue** too.
 * 🟦 **Typescript**
-  * No specific framework yet, but I'm keen to do something else than vanilla Typescript 😉.
+  * I'm using it as a replacement of Javascript in all my projects using frontend tools and frameworks.
   * My very first "sandbox project" in Typescript is a small Handpan pattern generator you can see there: https://pierstoval.github.io/handpan/ (check the [source code](https://pierstoval.github.io/handpan/index.html)). The Handpan is a musical instrument classified in the _steelpans_, and it has a very zen and lovely sound!
 * 🦕 **Deno**
   * Experienced it, tested it to create bundled versions of Typescript projects, but can also be used to compile executables!
