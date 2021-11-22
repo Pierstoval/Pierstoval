@@ -49,6 +49,7 @@ I do have several activities! Check them out:
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
     * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games.
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
+    * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
 * **🦀 Rust**
   * I started coding with Rust in 2020, mostly for the purpose of learning, and also for fun
   * Here are some of my projects using it:
