@@ -38,12 +38,15 @@ I do have several activities! Check them out:
 * Open Source projects:
     * [🪄 ImageMagickPHP](https://github.com/Orbitale/ImageMagickPHP), an ImageMagick command-line wrapper for PHP.
     * [🗜 ArrayFixture](https://github.com/Orbitale/ArrayFixture), a small package to simplify static fixtures creation with Doctrine ORM.
+    * [🔥 SmokeTesting](https://github.com/Pierstoval/SmokeTesting), a helper tool to ease the creation of Smoke and Functional tests with PHPUnit and Symfony.
     * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games.
+    * [🚀 PHP/JS JAMstack template](https://github.com/Pierstoval/php-js-boilerplate), a web-application template based on PHP, Symfony, API Platform, OpenAPI, Svelte Kit and Tailwind, to bootstrap a JAMstack project quickly
     * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server.
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [🍎 Compotes](https://github.com/Orbitale/Compotes/tree/rewrite), a small desktop app to visualize bank account operations analytics, built with Rust, Tauri, Svelte and Typescript.
     * [⏲ processtime](https://github.com/Orbitale/processtime), a cross-platform version of the "time" shell function, to display execution time for a process.
+    * [📊 Svelte vs React benchmarks](https://github.com/Pierstoval/helloworlds-react-svelte), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
     * [🎵 Handpan Composer](https://github.com/Pierstoval/handpan-svelte) a fun (unfinished) experiment to create music for the Handpan, a musical instrument classified in the _steelpans_, with a very zen and lovely sound 🎶.
 * Skills:
