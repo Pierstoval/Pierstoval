@@ -35,34 +35,38 @@ In any way, when I have a project, I will always try to make it Open Source firs
 
 I do have several activities! Check them out:
 
+* Skills:
+  * **🐘 PHP**
+    * That's my main skill, been doing PHP since 2008, and tried tons of frameworks in the past.
+    * I have two **Symfony** certifications, and been doing a lot Symfony-based projects since 2013
+  * **🦀 Rust**
+    * I started coding with Rust in 2020, mostly for the purpose of learning, and also for fun.
+    * Rust is a low-level language, but I love using it with [♾ Tauri](https://tauri.app) to create **desktop applications**.
+  * **🟨 Javascript** and **🟦 Typescript**
+    * Even though I'm mostly a backend developer, I also know some frontend, at least enough for having been coding on **browsers since 2011**.
+    * 🔵 Typescript is definitely the best option nowadays because it's stricter and has more capabilities.
+    * I know and love **⭕ Svelte** and a little **✌ Vue** too.
+  * **🐳Docker**
+    * Been using it to bootstrap projects since 2016, it's a must-have now to make sure a project's development setup is the same for everyone working on it!
+  * Other stuff:
+    * I'm managing **Debian**/**Ubuntu**-based dedicated servers.
+    * I know about OpenAPI, HTTP, REST, GraphQL, and things about the protocols that govern make web.
+    * Experienced DDD, Clean Architecture, and read a lot about design patterns, programming practices, etc. Nobody can know everything, but I do my best to know as much as I can!
+
 * Open Source projects:
     * [🪄 ImageMagickPHP](https://github.com/Orbitale/ImageMagickPHP), an ImageMagick command-line wrapper for PHP.
     * [🗜 ArrayFixture](https://github.com/Orbitale/ArrayFixture), a small package to simplify static fixtures creation with Doctrine ORM.
     * [🔥 SmokeTesting](https://github.com/Pierstoval/SmokeTesting), a helper tool to ease the creation of Smoke and Functional tests with PHPUnit and Symfony.
     * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games.
     * [🚀 PHP/JS JAMstack template](https://github.com/Pierstoval/php-js-boilerplate), a web-application template based on PHP, Symfony, API Platform, OpenAPI, Svelte Kit and Tailwind, to bootstrap a JAMstack project quickly
-    * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server.
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
-    * [🍎 Compotes](https://github.com/Orbitale/Compotes/tree/rewrite), a small desktop app to visualize bank account operations analytics, built with Rust, Tauri, Svelte and Typescript.
     * [⏲ processtime](https://github.com/Orbitale/processtime), a cross-platform version of the "time" shell function, to display execution time for a process.
     * [📊 Svelte vs React benchmarks](https://github.com/Pierstoval/helloworlds-react-svelte), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
+* Prototypes and side-projects:
+    * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server.
+    * [🍎 Compotes](https://github.com/Orbitale/Compotes/tree/rewrite), a small desktop app to visualize bank account operations analytics, built with Rust, Tauri, Svelte and Typescript.
     * [🎵 Handpan Composer](https://github.com/Pierstoval/handpan-svelte) a fun (unfinished) experiment to create music for the Handpan, a musical instrument classified in the _steelpans_, with a very zen and lovely sound 🎶.
-* Skills:
-  * **🐘 PHP**
-    * That's my main skill, been doing PHP since 2008, and tried tons of frameworks in the past.
-    * I have two **Symfony** certifications, and been doing almost only Symfony-based projects since 2013
-  * **🦀 Rust**
-    * I started coding with Rust in 2020, mostly for the purpose of learning, and also for fun.
-    * Rust is a low-level language, but I love using it with [Tauri](https://tauri.app) to create desktop applications.
-  * **🟨 Javascript** and **🟦 Typescript**
-    * Even though I'm mostly a backend developer, I also know a bit of frontend, at least enough for having been coding on browsers since 2011.
-    * 🍦 I really like vanilla JS, because it's light, but 🔵 Typescript is definitely the best option nowadays because it's stricter and has more capabilities.
-    * I know and love **Svelte** and a little **Vue** too.
-  * **🐳Docker**
-    * Been using it to bootstrap projects since 2016, it's a must-have now to make sure a project's development setup is the same for everyone working on it!
-  * Other stuff:
-    * I'm managing **Debian**/**Ubuntu**-based dedicated servers.
-    * I know about OpenAPI, HTTP, REST, and things about the protocols that govern make web.
-    * Experienced DDD, Clean Architecture, and read a lot about design patterns, programming practices, etc. Nobody can know everything, but I do my best to know as much as I can!
+    * [🦀 Pagoo](https://github.com/Orbitale/pagoo), a prototype/research on creating a daemon-like command executor listening to webhooks via an HTTP API.
+    * [♟ Game dev study](https://github.com/Pierstoval/aerg), a prototype of a Svelte+Typescript+Hexcomb boilerplate code for video games development in the browser.
