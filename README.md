@@ -56,7 +56,7 @@ I do have several activities! Check them out:
     * [🔥 SmokeTesting](https://github.com/Pierstoval/SmokeTesting), a helper tool to ease the creation of Smoke and Functional tests with PHPUnit and Symfony.
     * [🚀 PHP/JS JAMstack template](https://github.com/Pierstoval/php-js-boilerplate), a web-application template based on PHP, Symfony, API Platform, OpenAPI, Svelte Kit and Tailwind, to bootstrap a JAMstack project quickly
     * [⏲ processtime](https://github.com/Orbitale/processtime), a cross-platform version of the "time" shell function, but as a binary, which goal is to display execution time for a process.
-    * [📊 Svelte vs React benchmarks](https://github.com/Pierstoval/benchmarks-react-svelte-vue), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
+    * [📈 Svelte vs React benchmarks](https://github.com/Pierstoval/benchmarks-react-svelte-vue), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
 * Other side-projects:
     * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server.
