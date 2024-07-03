@@ -50,20 +50,21 @@ I do have several activities! Check them out:
     * Experienced DDD, Clean Architecture, and read a lot about design patterns, programming practices, etc. Nobody can know everything, but I do my best to know as much as I can!
 
 * Open Source projects:
+    * [📊 SvelteAdmin](https://github.com/Orbitale/SvelteAdmin), a Typescript and Svelte-based frontend AdminGenerator, inspired by ReactAdmin and EasyAdmin.
     * [🪄 ImageMagickPHP](https://github.com/Orbitale/ImageMagickPHP), an ImageMagick command-line wrapper for PHP.
     * [🗜 ArrayFixture](https://github.com/Orbitale/ArrayFixture), a small package to simplify static fixtures creation with Doctrine ORM.
     * [🔥 SmokeTesting](https://github.com/Pierstoval/SmokeTesting), a helper tool to ease the creation of Smoke and Functional tests with PHPUnit and Symfony.
-    * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games.
     * [🚀 PHP/JS JAMstack template](https://github.com/Pierstoval/php-js-boilerplate), a web-application template based on PHP, Symfony, API Platform, OpenAPI, Svelte Kit and Tailwind, to bootstrap a JAMstack project quickly
-    * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
-    * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [⏲ processtime](https://github.com/Orbitale/processtime), a cross-platform version of the "time" shell function, but as a binary, which goal is to display execution time for a process.
     * [📊 Svelte vs React benchmarks](https://github.com/Pierstoval/benchmarks-react-svelte-vue), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
 * Other side-projects:
     * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server.
     * [🍎 Compotes](https://github.com/Orbitale/Compotes/tree/rewrite), a small desktop app to visualize bank account operations analytics, built with Rust, Tauri, Svelte and Typescript.
+    * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games.
+    * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
+    * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
 * Prototypes (for learning, fun, or anything else):
     * [🎵 Handpan Composer](https://github.com/Pierstoval/handpan-svelte) a fun prototype/experiment to create music for the Handpan, a musical instrument classified in the _steelpans_, with a very zen and lovely sound 🎶.
     * [🦀 Pagoo](https://github.com/Orbitale/pagoo), a prototype/research on creating a daemon-like command executor listening to webhooks via an HTTP API.
-    * [♟ Game dev study](https://github.com/Pierstoval/aerg), a prototype of a Svelte+Typescript+Hexcomb boilerplate code for video games development in the browser.
+    * [♟ Game dev study](https://github.com/Pierstoval/aerg), a prototype of a Svelte+Typescript+Hexcomb boilerplate code for board games development in the browser.
