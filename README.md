@@ -66,9 +66,11 @@ I do have several activities! Check them out:
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
 * Prototypes (for learning, fun, or anything else):
+    * [📅 Creaminder](https://github.com/pierstoval/creaminder), a React+Rust/Tauri mobile and desktop app to add single categorized events into a calendar.
     * [🎵 Handpan Composer](https://github.com/Pierstoval/handpan-svelte) a fun prototype/experiment to create music for the Handpan, a musical instrument classified in the _steelpans_, with a very zen and lovely sound 🎶.
     * [🦀 Pagoo](https://github.com/Orbitale/pagoo), a prototype/research on creating a daemon-like command executor listening to webhooks via an HTTP API.
-    * [♟ Game dev study](https://github.com/Pierstoval/aerg), a prototype of a Svelte+Typescript+Hexcomb boilerplate code for board games development in the browser.
+    * [🎮 Middleware-based game engine study](https://github.com/pierstoval/Research-GameEngine), an exploration of the Middleware pattern as a Typescript loop-based Game engine. Just the engine, no rendering process.
+    * [♟ Board-game study](https://github.com/Pierstoval/aerg), a prototype of a Svelte+Typescript+Hexcomb boilerplate code for board games development in the browser.
 * Some snippets I like. <small>(I do a lot of manual scripting, for audits, data processing, etc., and sometimes I keep some of them online for reuse, documentation or educational purposes)</small>
     * [Debian starter](https://gist.github.com/Pierstoval/2372ae4634322916608c4dcafe8ccfc6), a script I often use to set up a new Debian-based machine. I use it both for VPS/Dedicated servers, but also when I set up a laptop for work, or things like that.
     * ["confirm" action for Makefiles](https://gist.github.com/Pierstoval/b2539c387c467c017bf2b0ace5a2e79b), a useful tool to add a "confirm" interactive feature directly inside a `Makefile` target, to secure some actions (like resetting the project, deploying to production, etc.)
