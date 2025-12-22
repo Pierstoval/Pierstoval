@@ -66,6 +66,7 @@ I do have several activities! Check them out:
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
     * [🗺 Esteren Maps](https://github.com/Pierstoval/EsterenMaps), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a Google-map-like application for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
 * Prototypes (for learning, fun, or anything else):
+    * [⚙ Confman](https://github.com/Pierstoval/Confman/), a tiny PHP-based utility to allow configuring a list of projects on your machine so you can execute a command on all of them without doing it manually on each project.
     * [🎮 Middleware-based game engine study](https://github.com/pierstoval/Research-GameEngine), a Typescript exploration of the Middleware pattern as a loop-based Game engine. Just the engine, no rendering process.
     * [📅 Creaminder](https://github.com/pierstoval/creaminder), a Typescript+React+Rust+Tauri mobile and desktop app to add single categorized events into a calendar.
     * [🎵 Handpan Composer](https://github.com/Pierstoval/handpan-svelte) a fun Typescript+Svelte prototype/experiment to create music for the Handpan, a musical instrument classified in the _steelpans_, with a very zen and lovely sound 🎶.
