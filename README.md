@@ -60,7 +60,7 @@ I do have several activities! Check them out:
     * [📈 Svelte vs React benchmarks](https://github.com/Pierstoval/benchmarks-react-svelte-vue), benchmarks of Svelte, SvelteKit, React and Next.js build times and sizes.
     * [📄 CmsBundle](https://github.com/Orbitale/CmsBundle), a very lightweight Page/Category implementation setup for Symfony applications.
 * Other side-projects:
-    * [🦀 Rymfony](https://github.com/Orbitale/Rymfony), an open-source Rust-based alternative for the Symfony CLI using Caddy server (currently abandoned, since the Symfony CLI was open-sourced, but it's still some nice work).
+    * [🦀 Rymfony](https://github.com/Orbitale/Rymfony) (unmaintained), an open-source Rust-based alternative for the Symfony CLI using Caddy server (abandoned since the Symfony CLI was open-sourced, but it's still some nice work).
     * [🍎 Compotes](https://github.com/Orbitale/Compotes/tree/rewrite), a small desktop app to visualize bank account operations analytics, built with Rust, Tauri, Svelte and Typescript (mostly for my personal usage, but fine too).
     * [🎲 CharacterManagerBundle](https://github.com/Pierstoval/CharacterManagerBundle), a workflow-like system to create character generators for custom table-top role-playing games (usually not very useful, but it contains neat code, I guess).
     * [🌳 Corahn-Rin](https://github.com/Pierstoval/CorahnRin), once a monolithic project created in 2013, but extracted from the monolith as a smaller application in 2021. It is a character and campaign manager for the [Shadows of Esteren](https://portal.esteren.org/en) table-top RPG.
