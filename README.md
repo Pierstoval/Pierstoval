@@ -50,6 +50,7 @@ I do have several activities! Check them out:
     * Experienced DDD, Clean Architecture, and read a lot about design patterns, programming practices, etc. Nobody can know everything, but I do my best to know as much as I can!
 
 * Open Source projects:
+    * [🐾 Pos-Sum](https://github.com/Orbitale/PoS-Sum), a lightweight Point-of-Sale offline application for desktop and mobile.
     * [📊 SvelteAdmin](https://github.com/Orbitale/SvelteAdmin) (alpha phase), a Typescript and Svelte-based frontend AdminGenerator, inspired by ReactAdmin and EasyAdmin.
     * [📆 Conventionist](https://github.com/Orbitale/Conventionist) (alpha phase), a Symfony+EasyAdmin application which goal is to ease the creation of convention-like events, with venues management as well as workshops subscriptions, booth and map-based visualisation, etc.
     * [🪄 ImageMagickPHP](https://github.com/Orbitale/ImageMagickPHP), an class-based ImageMagick command-line wrapper for PHP.
