@@ -1,6 +1,6 @@
 <p>
-  <a href="[https://twitter.com/pierstoval](https://mastodon.social/@pierstoval)">
-    <img alt="Twitter Follow" src="https://img.shields.io/mastodon/follow/108248855612922607?style=for-the-badge">
+  <a href="[https://mastodon.social/@pierstoval](https://mastodon.social/@pierstoval)">
+    <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108248855612922607?style=for-the-badge">
   </a>
 </p>
 
@@ -20,8 +20,6 @@
 Hello 🌘
 
 ## I'm a freelance developer, coach and trainer from France
-
-You can see my freelance website there: https://alex-rock.tech/en/, on which there's a specific section to the few [talks](https://alex-rock.tech/en/talks) I gave.
 
 I sometimes write **blog posts** too: https://www.orbitale.io/, sometimes technical, sometimes not purely technical, but I try to often talk about the strange world of tech we work in.
 
